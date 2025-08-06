@@ -118,7 +118,7 @@ header {
     border: 3px solid #007bff; /* Borda azul para a imagem */
     padding: 5px;
     box-sizing: border-box; /* Inclui padding e border no tamanho total */
-    border-radius: 50%; /* Torna a imagem redonda */
+    border-radius: 10%; /* Torna a imagem redonda */
     max-width: 180px; /* Garante que a imagem não seja muito grande */
     height: auto; /* Mantém a proporção */
 }
